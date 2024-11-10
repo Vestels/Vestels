@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vestels
+- 👋 Hi, I’m Roland Rokszin
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Development
 - 📫 How to reach me: rokszinroland@gmail.com
