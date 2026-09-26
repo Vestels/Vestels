@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Roland 👋
 
-<!--
-**Vestels/Vestels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building modern web applications.
 
-Here are some ideas to get you started:
+Previously worked on [PvPartners](https://www.pvpartners.hu) website, check out the project [here](https://github.com/Vestels/law-firm-website-sample).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+🚧 **Synex** — AI-powered fitness platform for personalized training, nutrition, and progress tracking.
+
+**Repositories**
+- 🖥️ [Frontend](https://github.com/Vestels/synex-client)
+- ⚙️ [API Gateway](https://github.com/Vestels/synex-api-gateway-service)
+- 👤 [User Service](https://github.com/Vestels/synex-user-service)
+- 🔎 [Eureka Server](https://github.com/Vestels/synex-eureka-server)
+
+**Built with**
+
+- Spring Boot · Next.js · PostgreSQL
+
+**Infrastructure & Tooling**
+
+- Spring Cloud · Eureka · Docker · GitHub Actions · Maven · pnpm
+
+### Core Features
+
+- Personalized workout planning & tracking
+- Nutrition and macro tracking
+- Body metrics and progress tracking
+- Progress photo analysis
+- AI-powered personal trainer
+- Food lookup and barcode scanning
+- Goal setting and personalized recommendations
+- Progress analytics and insights
+
+## Open Source
+
+Synex is fully open source and built in public.
+
+Contributions, ideas, feedback, and improvements are always welcome.
+Feel free to explore the repositories, open an issue, or submit a pull request.
