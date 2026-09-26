@@ -1,12 +1,11 @@
-# Hi, I'm Roland 👋
-
-Full-stack developer focused on building modern web applications.
+Building modern web applications with Java, Spring Boot, Angular and Next.js.
 
 Previously worked on [PvPartners](https://www.pvpartners.hu) website, check out the project [here](https://github.com/Vestels/law-firm-website-sample).
 
 ## Currently working on
 
 🚧 **Synex** — AI-powered fitness platform for personalized training, nutrition, and progress tracking.
+> 🌱 Greenfield project · Early development · Fully open source
 
 **Repositories**
 - 🖥️ [Frontend](https://github.com/Vestels/synex-client)
@@ -22,7 +21,7 @@ Previously worked on [PvPartners](https://www.pvpartners.hu) website, check out 
 
 - Spring Cloud · Eureka · Docker · GitHub Actions · Maven · pnpm
 
-### Core Features
+### Planned Core Features
 
 - Personalized workout planning & tracking
 - Nutrition and macro tracking
