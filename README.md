@@ -12,6 +12,7 @@ Previously worked on [PvPartners](https://www.pvpartners.hu) website, check out 
 - ⚙️ [API Gateway](https://github.com/Vestels/synex-api-gateway-service)
 - 👤 [User Service](https://github.com/Vestels/synex-user-service)
 - 🔎 [Eureka Server](https://github.com/Vestels/synex-eureka-server)
+- 🚀 [Deployment](https://github.com/Vestels/synex-deployment)
 
 **Built with**
 
