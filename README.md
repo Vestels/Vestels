@@ -16,7 +16,7 @@ Previously worked on [PvPartners](https://www.pvpartners.hu) website, check out 
 
 **Built with**
 
-- Spring Boot · Next.js · PostgreSQL
+- Spring Boot · Next.js · PostgreSQL · Auth0 (OAuth 2.0 / OpenID Connect)
 
 **Infrastructure & Tooling**
 
